@@ -26,7 +26,7 @@ Untuk menginstal `psutil`, gunakan perintah pip berikut:
 `sudo dnf install python3-tkinter`
 
 ### Cara menjalankan program
-1. `git clone https://github.com/`
+1. `git clone https://github.com/AwanArdy/Battery-Notification.git`
 2. Jalankan program dengan perintah berikut:
 `python3 main.py`
 Program akan berjalan di latar belakang dan memantau status baterai laptop setiap 1 menit
